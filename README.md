@@ -13,3 +13,16 @@
 - There are many other famous compilers/transpilers for converting Typescript to Javascript. Some famous ones are - 
 1. esbuild
 2. swc
+
+
+# Setting Up a Node.js Project with TypeScript
+
+This guide walks you through the steps to set up a Node.js project with TypeScript and demonstrates the benefits of TypeScript in catching type errors at compile time.
+
+---
+
+## **Step 1 - Install TypeScript Globally**
+Install the TypeScript compiler globally using npm:
+```bash
+npm install -g typescript 
+
